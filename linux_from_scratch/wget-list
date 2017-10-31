@@ -1,0 +1,4 @@
+https://ftp.gnu.org/gnu/binutils/binutils-2.29.1.tar.xz
+### apt-get install -y libmpfr-dev libgmp-dev libmpc-dev
+https://ftp.gnu.org/gnu/gcc/gcc-7.2.0/gcc-7.2.0.tar.xz
+https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.13.6.tar.xz

@@ -1,0 +1,10 @@
+label: gpt
+label-id: 3C74E895-DB2C-4149-B0B6-DE1D9B41B106
+device: disk.img
+unit: sectors
+first-lba: 2048
+last-lba: 41943006
+
+disk.img1 : start=        2048, size=        2048, type=21686148-6449-6E6F-744E-656564454649, uuid=CDAC4554-2653-4DDB-9E3D-3316C7DF5B84, name="grub"
+disk.img2 : start=        4096, size=      204800, type=0FC63DAF-8483-4772-8E79-3D69D8477DE4, uuid=C7BC339A-A620-4838-8040-1BCD9D2DCD46, name="/boot"
+disk.img3 : start=      208896, size=    41734111, type=0FC63DAF-8483-4772-8E79-3D69D8477DE4, uuid=4D53D8CB-8C96-4D59-9F85-28BA6C464866, name="/"
